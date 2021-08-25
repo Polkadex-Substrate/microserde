@@ -86,6 +86,7 @@
 //! }
 //! ```
 
+use std::prelude::v1::*;
 mod impls;
 
 use std::borrow::Cow;

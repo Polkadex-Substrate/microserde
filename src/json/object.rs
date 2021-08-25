@@ -1,3 +1,4 @@
+use std::prelude::v1::*;
 use std::borrow::Cow;
 use std::collections::{btree_map, BTreeMap};
 use std::iter::FromIterator;

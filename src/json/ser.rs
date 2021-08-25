@@ -1,3 +1,4 @@
+use std::prelude::v1::*;
 use std::borrow::Cow;
 
 use crate::ser::{Fragment, Map, Seq, Serialize};

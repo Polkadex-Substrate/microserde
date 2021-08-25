@@ -182,6 +182,7 @@
 //! }
 //! ```
 
+use std::prelude::v1::*;
 mod impls;
 
 use crate::error::{Error, Result};

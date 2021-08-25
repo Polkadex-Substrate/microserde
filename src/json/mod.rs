@@ -3,6 +3,8 @@
 //! [See the crate level doc](../index.html#example) for an example of
 //! serializing and deserializing JSON.
 
+pub use std::prelude::v1::*;
+
 mod ser;
 pub use self::ser::to_string;
 

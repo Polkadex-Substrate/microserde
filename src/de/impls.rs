@@ -1,3 +1,4 @@
+use std::prelude::v1::*;
 use std::collections::{BTreeMap, HashMap};
 use std::hash::{BuildHasher, Hash};
 use std::mem;
